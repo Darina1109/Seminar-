@@ -4,5 +4,9 @@
 
 > **git add .** -сохранить все файлы , которые были добавлены в наш репозиторий. Добавили **30** картинок- ""git add ." сохранит все **30** файлов сразу
 
-![](image_https://animals-land.ru/wp-content/uploads/2021/10/1627411192_4-funart-pro-p-chistokrovnii-britanets-kotenok-zhivotnie-4.jpg)
+> для добавления фото или ссылки из интернета в программу,используйте следующий путь: [ссылка](сам адрес фото или ссылки)
+
+![ссылка](https://lifehacker.ru/chto-takoe-markdown/)
+
+![ссылка](https://animals-land.ru/wp-content/uploads/2021/10/1627411192_4-funart-pro-p-chistokrovnii-britanets-kotenok-zhivotnie-4.jpg)
 
