@@ -4,11 +4,12 @@
 
 > **git add .** -сохранить все файлы , которые были добавлены в наш репозиторий. Добавили **30** картинок- ""git add ." сохранит все **30** файлов сразу
 
-> для добавления фото или ссылки из интернета в программу,используйте следующий путь: [ссылка](сам адрес фото или ссылки)
+>  для добавления фото или ссылки из интернета в программу,используйте следующий путь: [ссылка](сам адрес фото или ссылки)
 
-[ссылка](https://lifehacker.ru/chto-takoe-markdown/)
+ ### [https://lifehacker.ru/chto-takoe-markdown/](https://lifehacker.ru/chto-takoe-markdown/)
 
-если хотите,чтобы фото было в самой программе, поставьте перед [ссылка] восклицательный знак !
+> если хотите,чтобы фото было в самой программе, поставьте перед [ссылка] восклицательный знак !
 
-![ссылка](https://animals-land.ru/wp-content/uploads/2021/10/1627411192_4-funart-pro-p-chistokrovnii-britanets-kotenok-zhivotnie-4.jpg)
+![котик](https://animals-land.ru/wp-content/uploads/2021/10/1627411192_4-funart-pro-p-chistokrovnii-britanets-kotenok-zhivotnie-4.jpg)
+
 
